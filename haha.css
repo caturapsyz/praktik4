@@ -22,9 +22,9 @@ nav ul li {
 }
 
 nav a {
-    color: rgb(106, 255, 156);
-    text-decoration: none;
-    transition: color 0.3s;
+    color: rgb(51, 53, 52);
+    text-shadow: #effa57e5;
+    transition: color 0.5s;
 }
 
 nav a:hover {
